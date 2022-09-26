@@ -1,7 +1,64 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: block;
 }
 
-header{
-    background-image: url(img/pattern.png);
+header .img{
+    background-image: url(../img/pattern.png);
+    background-color: skyblue;
     }
+
+.img-logo{
+    width: 225px;
+    margin-top: 30px;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+
+header span{
+    color: blue;
+}
+
+.date{
+    font-size: 12px;
+    color: gray;
+}
+
+.photos1 p{
+    font-size: 12px;
+}
+
+.paragraph1 span{
+    background-color: yellow;
+}
+
+.table div{
+    display: block;
+}
+
+div span{
+    display: inline-block;
+    width: 20%;
+}
+
+.r-header{
+    background-color: blue;
+    color: white;
+}
+
+.r-blue{
+    background-color: lightblue;
+}
+
+.paragraph2 span{
+    background-color: yellow;
+}
+
+footer h4{
+    color: gray;
+}
